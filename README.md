@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">📊 Мир, где Excel правит</h1>
+<h1 align="center">🧾 Вход разрешён только с накладной</h1>
 
-<!--
-**ExcelPunk/ExcelPunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">📦 Логистика, учёт и немного ChatGPT-магии</h3>
 
-Here are some ideas to get you started:
+## 😎 Кто я
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧾 Табличный бунтарь.  
+- 🧮 Бухгалтер-логист по профессии.  
+- 🧙 Excel-маг по призванию.  
+- 😎Код пишу... ну, не я, но я знаю, что хочу.  
+- ✨Программы создаю вместе с ChatGPT — и это работает.
+
+## 🤯 Что я тут делаю?
+
+- 🧾 Храню полезные скрипты, чтобы автоматизировать свою работу
+- 📁 Собираю полезные сниппеты для автоматизации учёта
+- 📦 Упрощаю рутину: для себя и других
+- 🤖 ChatGPT пишет, я проверяю
+
+## 💼 Навыки
+
+- 💸 1С:Предприятие — провожу, сверяю, настраиваю
+- 📊 Excel — функции, формулы, немного VBA
+- 🧠 SQL — SELECT уже освоил, движемся дальше
+- 💬 ChatGPT — senior prompt-инженер
+- 📁 Тонко чувствую, в какой папке нужный файл
+
+## Предпочитаемые инструменты
+![Microsoft Excel](image/Excel.png) ![1С:Предприятие](image/1С.png) ![ChatGPT](image/ChatGPT.png) ![Obsidian](image/Obsidian.png)
+
+## Изучаю
+![VS Code](image/Visual_Studio.png) ![SQL](image/Sql.png)
+
+## 📬 Связь
+
+Пока не ищу работу, но открыт для интересных предложений.  
+📧 andrey15543@yandex.ru
